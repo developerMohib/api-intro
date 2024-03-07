@@ -1,0 +1,6 @@
+	
+	=> API Response 
+	1. How can u call api?? 
+	2. How can u convert it into json ?
+	3. How can u call data from API ? 
+	4. How can u appendChild in a div ?
